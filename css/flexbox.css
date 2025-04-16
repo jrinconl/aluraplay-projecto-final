@@ -12,6 +12,14 @@
     display: none;
 }
 
+/*Menu lateral*/
+.menu__container {
+    position: fixed;
+    bottom: 0%;
+    height: 75px;
+    width: 100%;
+}
+
 /*Seccion superior*/
 .superior__seccion__container {
     display: flex;
