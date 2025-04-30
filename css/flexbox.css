@@ -86,6 +86,19 @@
         gap: 33px;
     }
 
+    /*Seccion videos*/
+
+    .videos__container {
+        display: flex;
+        flex-wrap: wrap;
+    }    
+
+    .videos__item {
+        height: 303px;
+        width: 280px;
+        flex-grow: 1;
+    }
+
     /*Footer*/
     .rodapie__container {
         justify-content: space-between;
